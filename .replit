@@ -1,0 +1,9 @@
+language = "bash"
+run = "git push origin master"
+
+#language = "python3"
+#run = "python server.py"
+
+#language = "C++"
+#run = "python server.py"
+
